@@ -1,0 +1,552 @@
+{
+  "data": [
+    {
+      "id": "036feed0-da8a-42c9-ab9a-57449b530b13",
+      "type": "breed",
+      "attributes": {
+        "name": "Affenpinscher",
+        "description": "The Affenpinscher is a small and playful breed of dog that was originally bred in Germany for hunting small game. They are intelligent, energetic, and affectionate, and make excellent companion dogs.",
+        "life": {
+          "max": 16,
+          "min": 14
+        },
+        "male_weight": {
+          "max": 6,
+          "min": 4
+        },
+        "female_weight": {
+          "max": 6,
+          "min": 4
+        },
+        "hypoallergenic": true,
+        "male_height": {
+          "max": 29,
+          "min": 23
+        },
+        "female_height": {
+          "max": 29,
+          "min": 23
+        },
+        "origin": {
+          "era": "17th century",
+          "region": "Central Europe",
+          "country": "Germany"
+        },
+        "coat": {
+          "type": "wire",
+          "colors": [
+            "black",
+            "gray",
+            "silver",
+            "red",
+            "black and tan"
+          ],
+          "length": "short"
+        },
+        "traits": {
+          "energy": 3,
+          "barking": 3,
+          "drooling": 1,
+          "grooming": 3,
+          "shedding": 2,
+          "temperament": [
+            "confident",
+            "curious",
+            "stubborn",
+            "playful",
+            "alert",
+            "mischievous"
+          ],
+          "trainability": 3,
+          "good_with_dogs": 3,
+          "exercise_minutes": 30,
+          "apartment_friendly": 5,
+          "good_with_children": 3,
+          "good_with_strangers": 2
+        },
+        "other_names": [
+          "Monkey Terrier",
+          "Affen",
+          "Diablotin Moustachu"
+        ],
+        "recognized_by": [
+          "AKC",
+          "FCI",
+          "UKC",
+          "KC",
+          "CKC",
+          "ANKC",
+          "NZKC"
+        ],
+        "sources": [
+          {
+            "url": "https://images.akc.org/pdf/breeds/standards/Affenpinscher.pdf",
+            "title": "Official Standard of the Affenpinscher (AKC)"
+          }
+        ],
+        "images": [
+          {
+            "id": "1861dc37-a00b-4e34-b9b8-8c03b6e58b61",
+            "url": "https://images.dogapi.dog/01v98q4ttqulz609aw8r5h8i1g44",
+            "thumb": "https://images.dogapi.dog/zpwegcab6hzq09q0eyl8oxf66lve",
+            "medium": "https://images.dogapi.dog/f57sae5b2xqi6pxdq6r8tw1h4c8t",
+            "large": "https://images.dogapi.dog/21mg55zlym6nq3o6cm56v0itkdad",
+            "attribution": {
+              "author": "Futurebreak",
+              "license": "CC0",
+              "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:Affenpinscher_breed.jpg"
+            }
+          },
+          {
+            "id": "add89f7d-2d3c-4e45-9752-8691c2ed5324",
+            "url": "https://images.dogapi.dog/6yxkty9uxjqu88oaatkeh61gudor",
+            "thumb": "https://images.dogapi.dog/lb77ge24lydsghqozajjik9fyw8u",
+            "medium": "https://images.dogapi.dog/t78mfk32frxrfsr9hipqqtfnj4zc",
+            "large": "https://images.dogapi.dog/wtkz5owjefxeuylfeag1gmf43pqb",
+            "attribution": {
+              "author": "Kristy May for Pets Advisor www.petful.com - Uploaded at Petful",
+              "license": "CC BY 2.0",
+              "license_url": "https://creativecommons.org/licenses/by/2.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:2013_Westminster_Kennel_Club_Dog_Show-_Affenpinscher_Joey_aka_GCH_Banana_Joe_V_Tani_Kazari_(8471258772).jpg"
+            }
+          }
+        ]
+      },
+      "relationships": {
+        "group": {
+          "data": {
+            "id": "f56dc4b1-ba1a-4454-8ce2-bd5d41404a0c",
+            "type": "group"
+          }
+        }
+      }
+    },
+    {
+      "id": "406e8454-d350-4187-9788-6d857ee52e06",
+      "type": "breed",
+      "attributes": {
+        "name": "Bavarian Mountain Scent Hound",
+        "description": "The Bavarian Mountain Scent Hound is a medium-sized breed of dog that was originally bred in Germany for hunting small game. They are intelligent, energetic, and determined, and make excellent hunting dogs.",
+        "life": {
+          "max": 15,
+          "min": 12
+        },
+        "male_weight": {
+          "max": 30,
+          "min": 20
+        },
+        "female_weight": {
+          "max": 30,
+          "min": 20
+        },
+        "hypoallergenic": false,
+        "male_height": {},
+        "female_height": {},
+        "origin": {},
+        "coat": {},
+        "traits": {},
+        "other_names": [],
+        "recognized_by": [],
+        "sources": [],
+        "images": [
+          {
+            "id": "a5d95f97-0af2-4146-8eda-57c5e2707eb6",
+            "url": "https://images.dogapi.dog/ha10jqhr1g3x1p663p0nwgyv2myh",
+            "thumb": "https://images.dogapi.dog/eyfqjtlxk3j7ct1tbm82rp1f1m5j",
+            "medium": "https://images.dogapi.dog/3ljww2e0kp1siefra6f6iz4zhsb0",
+            "large": "https://images.dogapi.dog/18de6euxz2v3nsw31hypqh74i68m",
+            "attribution": {
+              "author": "Ralf Lotys (Sicherlich)",
+              "license": "CC BY 2.5",
+              "license_url": "https://creativecommons.org/licenses/by/2.5",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:2005-09_Zoran_1.jpg"
+            }
+          },
+          {
+            "id": "b68f5aa7-fdf7-4bed-bf10-710da0aa9bdb",
+            "url": "https://images.dogapi.dog/v3goipl1jwp6ienojhamz1m79hsg",
+            "thumb": "https://images.dogapi.dog/q2tjjjwluevw8ztvjpk4982sfwfl",
+            "medium": "https://images.dogapi.dog/oekth4h39oezht2tq80km1fs014p",
+            "large": "https://images.dogapi.dog/3q4qpi7wb2zwpx49xn8c1mc8suwt",
+            "attribution": {
+              "author": null,
+              "license": "CC BY-SA 3.0",
+              "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:BayerischerGebirgsSchweisshund.jpg"
+            }
+          }
+        ]
+      },
+      "relationships": {
+        "group": {
+          "data": {
+            "id": "8000793f-a1ae-4ec4-8d55-ef83f1f644e5",
+            "type": "group"
+          }
+        }
+      }
+    },
+    {
+      "id": "7193b618-726e-4f55-afc8-7ed1cba665c4",
+      "type": "breed",
+      "attributes": {
+        "name": "Brussels Griffon",
+        "description": "The Brussels Griffon is a small, playful breed that is known for its intelligence, comical expression, and affectionate nature. This breed is native to Belgium, where it was originally kept as a companion and lapdog.",
+        "life": {
+          "max": 15,
+          "min": 12
+        },
+        "male_weight": {
+          "max": 5,
+          "min": 4
+        },
+        "female_weight": {
+          "max": 5,
+          "min": 4
+        },
+        "hypoallergenic": false,
+        "male_height": {},
+        "female_height": {},
+        "origin": {
+          "era": "19th century",
+          "region": "Brussels",
+          "country": "Belgium"
+        },
+        "coat": {
+          "type": "wire",
+          "colors": [
+            "red",
+            "black",
+            "black and tan",
+            "belge (black and reddish-brown mix)"
+          ],
+          "length": "medium"
+        },
+        "traits": {
+          "energy": 3,
+          "barking": 4,
+          "drooling": 1,
+          "grooming": 3,
+          "shedding": 2,
+          "temperament": [
+            "alert",
+            "affectionate",
+            "sensitive",
+            "self-important",
+            "intelligent",
+            "watchful"
+          ],
+          "trainability": 3,
+          "good_with_dogs": 3,
+          "exercise_minutes": 30,
+          "apartment_friendly": 5,
+          "good_with_children": 3,
+          "good_with_strangers": 2
+        },
+        "other_names": [
+          "Griffon Bruxellois",
+          "Griffon Belge",
+          "Petit Brabançon",
+          "Belgian Griffon"
+        ],
+        "recognized_by": [
+          "AKC",
+          "FCI",
+          "UKC",
+          "KC",
+          "CKC"
+        ],
+        "sources": [
+          {
+            "url": "http://images.akc.org/pdf/breeds/standards/BrusselsGriffon.pdf",
+            "title": "Official Standard for the Brussels Griffon (AKC)"
+          }
+        ],
+        "images": [
+          {
+            "id": "8ecdb025-e2df-4345-bff0-079568dd22bf",
+            "url": "https://images.dogapi.dog/kvzdlixd0vbkh9rnxwcvqy6r94tx",
+            "thumb": "https://images.dogapi.dog/mqqmufdks3vvgov9it8qytnfah8p",
+            "medium": "https://images.dogapi.dog/ssbr2wv8d5r37fan63wg5oq5o8m7",
+            "large": "https://images.dogapi.dog/b9lgedxkv9rw0cr3e4a34mtaj9cs",
+            "attribution": {
+              "author": "The original uploader was Dan9186 at English Wikipedia.",
+              "license": "CC BY-SA 3.0",
+              "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:Brussels_Griffon_Rembrant_(jpg_format).jpg"
+            }
+          },
+          {
+            "id": "46541256-5c4c-4525-8505-a64090f1684a",
+            "url": "https://images.dogapi.dog/akd2zi4p64jyo55nflk3arwgxlvh",
+            "thumb": "https://images.dogapi.dog/u05rxvdvq4q3vrn7jk0dqv8ifqui",
+            "medium": "https://images.dogapi.dog/fmifu2zm5x1xcu6w448ygrgibh62",
+            "large": "https://images.dogapi.dog/bi3kmwgizsawgx98jvnl19krt18o",
+            "attribution": {
+              "author": "Galawebdesign",
+              "license": "CC BY-SA 3.0",
+              "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:Brussels_griffon_Stewie_galawebdesign.jpg"
+            }
+          }
+        ]
+      },
+      "relationships": {
+        "group": {
+          "data": {
+            "id": "f56dc4b1-ba1a-4454-8ce2-bd5d41404a0c",
+            "type": "group"
+          }
+        }
+      }
+    },
+    {
+      "id": "c500abe0-0ee1-4209-9767-08cc03e6abdf",
+      "type": "breed",
+      "attributes": {
+        "name": "Czechoslovakian Vlcak",
+        "description": "The Czechoslovakian Vlcak is an intelligent and alert breed with an athletic build and a thick, coarse coat. They are an intelligent and highly trainable working dog that is used in many different roles, including as a guard dog, search and rescue, and police dog. The Czech Vlcak is also known for its outstanding loyalty and devotion to its owners.",
+        "life": {
+          "max": 16,
+          "min": 12
+        },
+        "male_weight": {
+          "max": 40,
+          "min": 26
+        },
+        "female_weight": {
+          "max": 26,
+          "min": 20
+        },
+        "hypoallergenic": false,
+        "male_height": {
+          "max": 70,
+          "min": 65
+        },
+        "female_height": {
+          "max": 65,
+          "min": 60
+        },
+        "origin": {},
+        "coat": {
+          "type": "double",
+          "colors": [
+            "yellowish-gray",
+            "silver-gray",
+            "dark gray with light mask"
+          ],
+          "length": "short"
+        },
+        "traits": {
+          "energy": 5,
+          "barking": 3,
+          "drooling": 1,
+          "grooming": 3,
+          "shedding": 4,
+          "temperament": [
+            "alert",
+            "independent",
+            "loyal",
+            "suspicious of strangers",
+            "fearless",
+            "persistent"
+          ],
+          "trainability": 3,
+          "good_with_dogs": 2,
+          "exercise_minutes": 120,
+          "apartment_friendly": 1,
+          "good_with_children": 2,
+          "good_with_strangers": 1
+        },
+        "other_names": [
+          "Czechoslovakian Wolfdog",
+          "Československý vlčák",
+          "Czechoslovakian Vlciak"
+        ],
+        "recognized_by": [
+          "FCI",
+          "UKC",
+          "KC"
+        ],
+        "sources": [
+          {
+            "url": "https://www.furrycritter.com/pages/descriptions/dogs/e/esky_vlk.htm",
+            "title": "Česky Vlčák - Complete Breed Guide | Furry Critter Network"
+          }
+        ],
+        "images": [
+          {
+            "id": "34835ae6-e5ca-4295-97fe-64775c4c04fe",
+            "url": "https://images.dogapi.dog/rq9iebeb2ugi8cq3iydbqjyw2xia",
+            "thumb": "https://images.dogapi.dog/zf1yzyt1sr39rb8fgbdxo47yg9ph",
+            "medium": "https://images.dogapi.dog/onv6h5457h43g6d2e7pwgpbgj66r",
+            "large": "https://images.dogapi.dog/5ry454gobesxxybrpncs4bf7tdyk",
+            "attribution": {
+              "author": "Claudia Schröder",
+              "license": "CC BY-SA 4.0",
+              "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:Oishani_Othari_van_Koekie%27s_Ranch.jpg"
+            }
+          },
+          {
+            "id": "35784d13-c6b0-405d-bcb4-3a78594725b2",
+            "url": "https://images.dogapi.dog/2b8v5tj24n1uirs04ocmy612yfa2",
+            "thumb": "https://images.dogapi.dog/qd61tlw5mqiryxca9apfxzz9amxo",
+            "medium": "https://images.dogapi.dog/lwn31jt0vopgbdjxsvwszb4ct1hd",
+            "large": "https://images.dogapi.dog/1x12vo9uy4rqea23wuifs2avjcnh",
+            "attribution": {
+              "author": "Margo-CzW",
+              "license": "Public domain",
+              "license_url": null,
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:Czw-merrybell.jpg"
+            }
+          }
+        ]
+      },
+      "relationships": {
+        "group": {
+          "data": {
+            "id": "8000793f-a1ae-4ec4-8d55-ef83f1f644e5",
+            "type": "group"
+          }
+        }
+      }
+    },
+    {
+      "id": "8355b9c9-3724-477d-858a-c1c1c0f1743f",
+      "type": "breed",
+      "attributes": {
+        "name": "American Foxhound",
+        "description": "The American Foxhound is a large and athletic breed of dog that was originally bred in the United States for hunting foxes. They are intelligent, energetic, and determined, and make excellent hunting dogs.",
+        "life": {
+          "max": 13,
+          "min": 11
+        },
+        "male_weight": {
+          "max": 32,
+          "min": 27
+        },
+        "female_weight": {
+          "max": 29,
+          "min": 27
+        },
+        "hypoallergenic": false,
+        "male_height": {
+          "max": 64,
+          "min": 56
+        },
+        "female_height": {
+          "max": 61,
+          "min": 53
+        },
+        "origin": {
+          "era": "18th century (colonial era)",
+          "region": "Virginia",
+          "country": "United States"
+        },
+        "coat": {
+          "type": "medium",
+          "colors": [
+            "Black, White & Tan",
+            "White, Black & Tan",
+            "Any color"
+          ],
+          "length": "medium"
+        },
+        "traits": {
+          "energy": 5,
+          "barking": 4,
+          "drooling": 1,
+          "grooming": 2,
+          "shedding": 3,
+          "temperament": [
+            "Independent",
+            "Determined",
+            "Sweet-tempered",
+            "Amiable",
+            "Gentle",
+            "Easy-going"
+          ],
+          "trainability": 3,
+          "good_with_dogs": 5,
+          "exercise_minutes": 90,
+          "apartment_friendly": 1,
+          "good_with_children": 4,
+          "good_with_strangers": 3
+        },
+        "other_names": [
+          "Virginia Hound"
+        ],
+        "recognized_by": [
+          "AKC",
+          "FCI",
+          "UKC",
+          "CKC",
+          "NZKC"
+        ],
+        "sources": [
+          {
+            "url": "https://www.ukcdogs.com/american-foxhound",
+            "title": "Breed Standards : American Foxhound | United Kennel Club (UKC)"
+          }
+        ],
+        "images": [
+          {
+            "id": "ab5b3fce-ae06-4b8f-a7a0-73436cc748bf",
+            "url": "https://images.dogapi.dog/loxxh1000z2mcdwh20wvjki2x155",
+            "thumb": "https://images.dogapi.dog/rg6cio97k4ugdjsb0ktlbwteshve",
+            "medium": "https://images.dogapi.dog/84fc0ya4pg82y3pjot6v36cnxr2r",
+            "large": "https://images.dogapi.dog/j17f71br0ieud05o0gqba0w5fd5u",
+            "attribution": {
+              "author": "Athletesrun",
+              "license": "CC BY-SA 3.0",
+              "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:American_Foxfound.JPG"
+            }
+          },
+          {
+            "id": "bdc59dc3-66f3-496f-932c-5df6e068c5e0",
+            "url": "https://images.dogapi.dog/yzah84alezmd39io337rwtfikie3",
+            "thumb": "https://images.dogapi.dog/71hq4nej3bcya0t9hs9gd0498n9b",
+            "medium": "https://images.dogapi.dog/9itl9f2zvk2do444zm0my603vmzt",
+            "large": "https://images.dogapi.dog/qhet6s5iy8mtxtsodhhw4x7a3faa",
+            "attribution": {
+              "author": null,
+              "license": "Public domain",
+              "license_url": null,
+              "source": "wikimedia_commons",
+              "source_url": "https://commons.wikimedia.org/wiki/File:AmericanFoxhound.jpg"
+            }
+          }
+        ]
+      },
+      "relationships": {
+        "group": {
+          "data": {
+            "id": "be0147df-7755-4228-b132-2518c0c6d10d",
+            "type": "group"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "current": 1,
+      "next": 2,
+      "last": 6,
+      "records": 283
+    }
+  },
+  "links": {}
+}

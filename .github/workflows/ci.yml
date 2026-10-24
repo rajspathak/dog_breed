@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: cp .env.example .env
+      - run: npm run typecheck
+      - run: npm run lint
+      - run: npm test -- --ci --coverage
+      - run: npx expo export --platform android --dump-sourcemap --output-dir dist
+      - run: node scripts/bundle-report.mjs android 12 >> "$GITHUB_STEP_SUMMARY"

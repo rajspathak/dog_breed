@@ -1,0 +1,36 @@
+appId: com.dogbreed.app
+name: Browse, search, open details and filter
+---
+- launchApp
+- extendedWaitUntil:
+    visible:
+      id: breed-list
+    timeout: 30000
+- tapOn:
+    id: search-input
+- inputText: airedale
+- extendedWaitUntil:
+    visible: Airedale Terrier
+    timeout: 5000
+- tapOn: Airedale Terrier
+- assertVisible:
+    id: overview-tab
+- tapOn:
+    id: tab-traits
+- assertVisible: Good with children
+- tapOn:
+    id: tab-gallery
+- assertVisible:
+    id: image-attribution
+- back
+- tapOn: Clear search
+- tapOn:
+    id: open-filters
+- tapOn:
+    id: coat-wire
+- tapOn:
+    id: hypo-yes
+- tapOn: Show .* breeds
+- assertVisible:
+    id: result-summary
+- assertVisible: Filters · 2

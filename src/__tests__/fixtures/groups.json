@@ -1,0 +1,239 @@
+{
+  "data": [
+    {
+      "id": "8000793f-a1ae-4ec4-8d55-ef83f1f644e5",
+      "type": "group",
+      "attributes": {
+        "name": "Foundation Stock Service"
+      },
+      "relationships": {
+        "breeds": {
+          "data": [
+            {
+              "id": "1d18a7b3-ce08-41bb-a573-a99f89fb14f1",
+              "type": "breed"
+            },
+            {
+              "id": "399c6552-7b4f-418c-a3cc-951cf6752a2e",
+              "type": "breed"
+            },
+            {
+              "id": "8a78ce08-b3ae-4db0-9048-1354cddb7450",
+              "type": "breed"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "b8e4e89d-057f-432a-9e58-0b85b29b693c",
+      "type": "group",
+      "attributes": {
+        "name": "Herding Group"
+      },
+      "relationships": {
+        "breeds": {
+          "data": [
+            {
+              "id": "169f3d91-4430-452e-8dac-8399286444d8",
+              "type": "breed"
+            },
+            {
+              "id": "2a4b364b-ec99-467c-b86c-516415601771",
+              "type": "breed"
+            },
+            {
+              "id": "7ee19070-1a62-40e4-95d8-3b33ef87c9ef",
+              "type": "breed"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "be0147df-7755-4228-b132-2518c0c6d10d",
+      "type": "group",
+      "attributes": {
+        "name": "Hound Group"
+      },
+      "relationships": {
+        "breeds": {
+          "data": [
+            {
+              "id": "b4391694-dcb7-4a30-91f3-d63e2bca25ac",
+              "type": "breed"
+            },
+            {
+              "id": "5b89a1a3-549f-4166-b6c7-188926b89caa",
+              "type": "breed"
+            },
+            {
+              "id": "37b93400-0cfe-4fb1-8045-2bcbcfc98b9d",
+              "type": "breed"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "d4b72541-a1c6-46d7-b13c-709e148c7884",
+      "type": "group",
+      "attributes": {
+        "name": "Miscellaneous Class"
+      },
+      "relationships": {
+        "breeds": {
+          "data": [
+            {
+              "id": "bf30a823-eddb-4a1f-a853-2a114760f458",
+              "type": "breed"
+            },
+            {
+              "id": "be5dfe10-f705-49a3-94d0-9e6bdb8cf869",
+              "type": "breed"
+            },
+            {
+              "id": "6ed6cebe-6b66-4839-a7d4-4b1c930be0d7",
+              "type": "breed"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "7f6ea988-366a-4e20-b4ba-4d04274fea61",
+      "type": "group",
+      "attributes": {
+        "name": "Non-Sporting Group"
+      },
+      "relationships": {
+        "breeds": {
+          "data": [
+            {
+              "id": "03c728a4-258a-4c31-8a1e-5c5e89455cdb",
+              "type": "breed"
+            },
+            {
+              "id": "1fa29da4-8cc9-4f82-9c4d-cd93ee6dd6be",
+              "type": "breed"
+            },
+            {
+              "id": "e1c0664d-aa61-4c85-970d-6c86ba197bee",
+              "type": "breed"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ab110192-e41b-43ff-a630-f7aee156b33a",
+      "type": "group",
+      "attributes": {
+        "name": "Sporting Group"
+      },
+      "relationships": {
+        "breeds": {
+          "data": [
+            {
+              "id": "f26e0db8-36ce-42de-bf31-b3c78729ff54",
+              "type": "breed"
+            },
+            {
+              "id": "188075d0-5a8a-4829-8c3e-128d75b691ca",
+              "type": "breed"
+            },
+            {
+              "id": "da847994-042e-4213-9e5d-c529b22e37b5",
+              "type": "breed"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "1bbf373b-1937-4e73-9863-45385daa4979",
+      "type": "group",
+      "attributes": {
+        "name": "Terrier Group"
+      },
+      "relationships": {
+        "breeds": {
+          "data": [
+            {
+              "id": "5d5a842e-7eea-4355-93d2-d0b9ff23fa3d",
+              "type": "breed"
+            },
+            {
+              "id": "2eb1ba4b-1fa2-40ab-827c-a1c1e6d28b17",
+              "type": "breed"
+            },
+            {
+              "id": "6c12d646-c06e-47ae-b322-998b737f54c1",
+              "type": "breed"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "f56dc4b1-ba1a-4454-8ce2-bd5d41404a0c",
+      "type": "group",
+      "attributes": {
+        "name": "Toy Group"
+      },
+      "relationships": {
+        "breeds": {
+          "data": [
+            {
+              "id": "feaa80fe-68bc-42b9-b2b5-2220ec4ff615",
+              "type": "breed"
+            },
+            {
+              "id": "dd9017cb-368d-4013-8e9c-01ec3f305365",
+              "type": "breed"
+            },
+            {
+              "id": "e4aa816d-fb22-4841-80c4-b9967c310447",
+              "type": "breed"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "56081cf0-fdf2-4114-9bf7-23a3f5b6af91",
+      "type": "group",
+      "attributes": {
+        "name": "Working Group"
+      },
+      "relationships": {
+        "breeds": {
+          "data": [
+            {
+              "id": "1fa5afe6-4105-447c-9e18-a69ac4a7c8b3",
+              "type": "breed"
+            },
+            {
+              "id": "c94e50a5-f733-4b15-8b11-54598c949b6f",
+              "type": "breed"
+            },
+            {
+              "id": "e0c3dc07-73d6-4209-ae0b-8ddd99817287",
+              "type": "breed"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "current": 1,
+      "records": 9
+    }
+  },
+  "links": {
+    "self": "https://dogapi.dog/api/v2/groups",
+    "current": "https://dogapi.dog/api/v2/groups?page[number]=1"
+  }
+}
